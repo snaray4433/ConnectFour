@@ -1,0 +1,2 @@
+# ConnectFour
+playing the game 
